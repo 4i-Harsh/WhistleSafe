@@ -1,0 +1,387 @@
+.homepage,
+.homepage * {
+  box-sizing: border-box;
+}
+.homepage {
+  background: #f5f3f0;
+  height: 834px;
+  position: relative;
+  overflow: hidden;
+}
+.adpage {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  background: #b0e0f7;
+  border-radius: 16.98px;
+  width: 1008.32px;
+  height: 503.26px;
+  position: absolute;
+  left: calc(50% - 496.34px);
+  top: calc(50% - 326.26px);
+}
+.image-1 {
+  border-radius: 22.35px;
+  width: 379.91px;
+  height: 412.98px;
+  position: absolute;
+  left: calc(50% - -107.04px);
+  top: calc(50% - 286.04px);
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: #ebf5f9;
+  width: 292.3px;
+  height: 55.42px;
+  position: absolute;
+  left: calc(50% - -152.63px);
+  top: calc(50% - -50.07px);
+}
+.report-an-incident {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-Black", sans-serif;
+  font-size: 27.66521453857422px;
+  line-height: 46.11px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -158px);
+  top: calc(50% - -50px);
+  width: 337px;
+  height: 33.53px;
+}
+.rectangle-11 {
+  background: #e51a1a;
+  border-radius: 20.56px;
+  width: 229.73px;
+  height: 58.1px;
+  position: absolute;
+  left: calc(50% - 450.75px);
+  top: calc(50% - -68.84px);
+}
+.rectangle-12 {
+  background: #ebf5f9;
+  border-radius: 20.56px;
+  width: 229.73px;
+  height: 58.1px;
+  position: absolute;
+  left: calc(50% - 183.48px);
+  top: calc(50% - -68.84px);
+}
+.report-an-incident2 {
+  color: #f5f3f0;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 22.633808135986328px;
+  line-height: 33.95px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 437.35px);
+  top: calc(50% - -82.25px);
+}
+.learn-more {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 24.473766326904297px;
+  line-height: 36.71px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 136.1px);
+  top: calc(50% - -80.46px);
+}
+.welcome-to-whistlesafe-reporting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PublicSans-Black", sans-serif;
+  font-size: 44.69487762451172px;
+  line-height: 53.63px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - 462px);
+  top: calc(50% - 118px);
+  width: 555px;
+  height: 106px;
+}
+.we-ve-added-a-new-feature-you-can-now-submit-reports-by-calling-our-hotline {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PublicSans-Regular", sans-serif;
+  font-size: 15.196257591247559px;
+  line-height: 21.45px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 449.86px);
+  top: calc(50% - -22.36px);
+  width: 556.9px;
+  height: 27.71px;
+}
+.helphline {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-10 {
+  background: #f5f3f0;
+  width: 1025.42px;
+  height: 181.17px;
+  position: absolute;
+  left: calc(50% - 503.5px);
+  top: calc(50% - -205.93px);
+}
+.rectangle-5 {
+  background: #f5f3f0;
+  border-radius: 13.59px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 0.91px;
+  width: 193.85px;
+  height: 148.56px;
+  position: absolute;
+  left: calc(50% - 501.69px);
+  top: calc(50% - -222.24px);
+}
+.rectangle-7 {
+  background: #f5f3f0;
+  border-radius: 13.59px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 0.91px;
+  width: 193.85px;
+  height: 148.56px;
+  position: absolute;
+  left: calc(50% - -121.53px);
+  top: calc(50% - -222.24px);
+}
+.rectangle-6 {
+  background: #f5f3f0;
+  border-radius: 13.59px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 0.91px;
+  width: 193.85px;
+  height: 148.56px;
+  position: absolute;
+  left: calc(50% - -328.07px);
+  top: calc(50% - -222.24px);
+}
+.rectangle-8 {
+  background: #f5f3f0;
+  border-radius: 13.59px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 0.91px;
+  width: 193.85px;
+  height: 148.56px;
+  position: absolute;
+  left: calc(50% - 85.9px);
+  top: calc(50% - -222.24px);
+}
+.rectangle-9 {
+  background: #f5f3f0;
+  border-radius: 13.59px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 0.91px;
+  width: 193.85px;
+  height: 148.56px;
+  position: absolute;
+  left: calc(50% - 294.25px);
+  top: calc(50% - -222.24px);
+}
+.vector-0 {
+  width: 26.36px;
+  height: 26.36px;
+  position: absolute;
+  left: calc(50% - 482.67px);
+  top: calc(50% - -235.83px);
+  overflow: visible;
+}
+.vector-02 {
+  width: 26.36px;
+  height: 26.36px;
+  position: absolute;
+  left: calc(50% - 276.13px);
+  top: calc(50% - -235.83px);
+  overflow: visible;
+}
+.vector-03 {
+  width: 26.36px;
+  height: 26.36px;
+  position: absolute;
+  left: calc(50% - 69.6px);
+  top: calc(50% - -235.83px);
+  overflow: visible;
+}
+.vector-04 {
+  width: 26.36px;
+  height: 26.36px;
+  position: absolute;
+  left: calc(50% - -136.93px);
+  top: calc(50% - -235.83px);
+  overflow: visible;
+}
+.vector-05 {
+  width: 26.36px;
+  height: 26.36px;
+  position: absolute;
+  left: calc(50% - -343.47px);
+  top: calc(50% - -235.83px);
+  overflow: visible;
+}
+.call-our-hotline {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 17.57341194152832px;
+  line-height: 21.97px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 483.57px);
+  top: calc(50% - -275.68px);
+}
+.chat-with-us {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 17.57341194152832px;
+  line-height: 21.97px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 277.04px);
+  top: calc(50% - -273.87px);
+}
+.send-an-email {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 17.57341194152832px;
+  line-height: 21.97px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 69.6px);
+  top: calc(50% - -273.87px);
+}
+.submit-an-anonymous-report {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 17.57341194152832px;
+  line-height: 21.97px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -136.93px);
+  top: calc(50% - -275.68px);
+  width: 155.81px;
+}
+.invite-your-team {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 17.57341194152832px;
+  line-height: 21.97px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -343.47px);
+  top: calc(50% - -273.87px);
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #f5f3f0;
+  border-style: solid;
+  border-color: #c9c9c9;
+  border-width: 0px 0px 0.92px 0px;
+  width: 1179.6px;
+  height: 58.98px;
+  position: absolute;
+  left: calc(50% - 590px);
+  top: 0px;
+}
+.whistlesafe {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 16.588090896606445px;
+  line-height: 20.74px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 571.78px);
+  top: 18.35px;
+}
+.home {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 12.901848793029785px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -226.5px);
+  top: 19.35px;
+}
+.incidents {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 12.901848793029785px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -292.86px);
+  top: 19.35px;
+}
+.rectangle-2 {
+  background: #e51a1a;
+  border-radius: 9.22px;
+  width: 118.88px;
+  height: 35.94px;
+  position: absolute;
+  left: calc(50% - -450.44px);
+  top: 11.06px;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 19.000904083251953px;
+  line-height: 23.75px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -483.62px);
+  top: 16.59px;
+  width: 58.06px;
+  height: 22.17px;
+}
+.insights {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 12.901848793029785px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -377.64px);
+  top: 19.35px;
+}
+.report-an-incident a {
+  color: white;
+}
+a{
+  color: white;
+}
+.learn-more a{
+  color: black;
+}
+.home a{
+  color: #000000;
+}
+.insights a{
+  color: black;
+}
+footer{
+  background-color: #f5f3f0;
+  text-align: center;
+}

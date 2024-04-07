@@ -1,0 +1,220 @@
+.emergency,
+.emergency * {
+  box-sizing: border-box;
+}
+.emergency {
+  background: #f5f3f0;
+  height: 834px;
+  position: relative;
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #f5f3f0;
+  border-style: solid;
+  border-color: #c9c9c9;
+  border-width: 0px 0px 0.92px 0px;
+  width: 1179.6px;
+  height: 58.98px;
+  position: absolute;
+  left: calc(50% - 590px);
+  top: 0px;
+}
+.whistlesafe {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 16.588090896606445px;
+  line-height: 20.74px;
+  font-weight: 700;
+  position: absolute;
+  left: 18.22px;
+  top: 18.35px;
+}
+.home {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 12.901848793029785px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  right: 38.5px;
+  top: 19.35px;
+}
+.incidents {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 12.901848793029785px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  right: 112.15px;
+  top: 19.35px;
+}
+.insights {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 12.901848793029785px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  right: 214.36px;
+  top: 19.35px;
+}
+.rectangle-19 {
+  background: #ff5050;
+  border-radius: 19px;
+  width: 870px;
+  height: 92px;
+  position: absolute;
+  left: calc(50% - 423px);
+  top: calc(50% - 316px);
+}
+.emergency-sos {
+  color: #ffffff;
+  text-align: center;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 405px);
+  top: calc(50% - 304px);
+  width: 834px;
+  height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 374px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - 0px);
+  top: calc(50% - 170px);
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.rectangle-20 {
+  background: #f5f3f0;
+  border-radius: 44px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 1px;
+  width: 330px;
+  height: 374px;
+  position: absolute;
+  left: calc(50% - 371px);
+  top: calc(50% - 170px);
+}
+.rectangle-21 {
+  background: #f5f3f0;
+  border-radius: 44px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 1px;
+  width: 330px;
+  height: 374px;
+  position: absolute;
+  left: calc(50% - -41px);
+  top: calc(50% - 170px);
+}
+.local-police {
+  width: 95.2px;
+  height: 119px;
+  position: absolute;
+  left: calc(50% - 254px);
+  top: calc(50% - 145px);
+  overflow: visible;
+}
+.home-health {
+  width: 94.22px;
+  height: 106px;
+  position: absolute;
+  left: calc(50% - -165.22px);
+  top: calc(50% - 137px);
+  overflow: visible;
+}
+.copguard {
+  color: #000000;
+  text-align: center;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 19.35px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 342px);
+  top: calc(50% - 6px);
+  width: 280px;
+  height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.medialert {
+  color: #000000;
+  text-align: center;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 19.35px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - -66px);
+  top: calc(50% - 6px);
+  width: 280px;
+  height: 69px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.press-for-urgent-police-intervention {
+  color: #000000;
+  text-align: center;
+  font-family: "PublicSans-Light", sans-serif;
+  font-size: 23px;
+  line-height: 19.35px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - 349px);
+  top: calc(50% - -76px);
+  width: 287px;
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.press-to-summon-medical-assistance-immediately {
+  color: #000000;
+  text-align: center;
+  font-family: "PublicSans-Light", sans-serif;
+  font-size: 23px;
+  line-height: 19.35px;
+  font-weight: 300;
+  position: absolute;
+  left: calc(50% - -68px);
+  top: calc(50% - -77px);
+  width: 287px;
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.home a{
+  color: black;
+}
+a {
+  color: #000000;
+}
+footer{
+  background-color: #f5f3f0;
+  text-align: center;
+}

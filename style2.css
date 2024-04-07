@@ -1,0 +1,383 @@
+.homepage,
+.homepage * {
+  box-sizing: border-box;
+}
+.homepage {
+  background: #f5f3f0;
+  height: 957px;
+  position: relative;
+  overflow: hidden;
+}
+.adpage {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  background: #b0e0f7;
+  border-radius: 19px;
+  width: 1128px;
+  height: 563px;
+  position: absolute;
+  left: 78px;
+  top: 122px;
+}
+.image-1 {
+  border-radius: 25px;
+  width: 425px;
+  height: 462px;
+  position: absolute;
+  left: 753px;
+  top: 167px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: #ebf5f9;
+  width: 327px;
+  height: 62px;
+  position: absolute;
+  left: 804px;
+  top: 543px;
+}
+.report-an-incident {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-Black", sans-serif;
+  font-size: 36px;
+  line-height: 60px;
+  font-weight: 900;
+  position: absolute;
+  left: 820px;
+  top: 543px;
+  width: 300px;
+  height: 43px;
+}
+.rectangle-11 {
+  background: #e51a1a;
+  border-radius: 23px;
+  width: 257px;
+  height: 65px;
+  position: absolute;
+  left: 129px;
+  top: 564px;
+}
+.rectangle-12 {
+  background: #ebf5f9;
+  border-radius: 23px;
+  width: 257px;
+  height: 65px;
+  position: absolute;
+  left: 428px;
+  top: 564px;
+}
+.report-an-incident2 {
+  color: #f5f3f0;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 25.320362091064453px;
+  line-height: 37.98px;
+  font-weight: 700;
+  position: absolute;
+  left: 144px;
+  top: 579px;
+}
+.learn-more {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 27.37871551513672px;
+  line-height: 41.07px;
+  font-weight: 700;
+  position: absolute;
+  left: 481px;
+  top: 577px;
+}
+.welcome-to-whistlesafe-reporting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PublicSans-Black", sans-serif;
+  font-size: 50px;
+  line-height: 60px;
+  font-weight: 900;
+  position: absolute;
+  left: 126px;
+  top: 372px;
+  width: 536px;
+  height: 48px;
+}
+.we-ve-added-a-new-feature-you-can-now-submit-reports-by-calling-our-hotline {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PublicSans-Regular", sans-serif;
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 130px;
+  top: 512px;
+  width: 623px;
+  height: 31px;
+}
+.helphline {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-10 {
+  background: #f5f3f0;
+  width: 1132px;
+  height: 200px;
+  position: absolute;
+  left: 78px;
+  top: 697px;
+}
+.rectangle-5 {
+  background: #f5f3f0;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 1px;
+  width: 214px;
+  height: 164px;
+  position: absolute;
+  left: 80px;
+  top: 715px;
+}
+.rectangle-7 {
+  background: #f5f3f0;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 1px;
+  width: 214px;
+  height: 164px;
+  position: absolute;
+  left: 768px;
+  top: 715px;
+}
+.rectangle-6 {
+  background: #f5f3f0;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 1px;
+  width: 214px;
+  height: 164px;
+  position: absolute;
+  left: 996px;
+  top: 715px;
+}
+.rectangle-8 {
+  background: #f5f3f0;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 1px;
+  width: 214px;
+  height: 164px;
+  position: absolute;
+  left: 539px;
+  top: 715px;
+}
+.rectangle-9 {
+  background: #f5f3f0;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #e51a1a;
+  border-width: 1px;
+  width: 214px;
+  height: 164px;
+  position: absolute;
+  left: 309px;
+  top: 715px;
+}
+.vector-0 {
+  width: 29.1px;
+  height: 29.1px;
+  position: absolute;
+  left: 101px;
+  top: 730px;
+  overflow: visible;
+}
+.vector-02 {
+  width: 29.1px;
+  height: 29.1px;
+  position: absolute;
+  left: 329px;
+  top: 730px;
+  overflow: visible;
+}
+.vector-03 {
+  width: 29.1px;
+  height: 29.1px;
+  position: absolute;
+  left: 557px;
+  top: 730px;
+  overflow: visible;
+}
+.vector-04 {
+  width: 29.1px;
+  height: 29.1px;
+  position: absolute;
+  left: 785px;
+  top: 730px;
+  overflow: visible;
+}
+.vector-05 {
+  width: 29.1px;
+  height: 29.1px;
+  position: absolute;
+  left: 1013px;
+  top: 730px;
+  overflow: visible;
+}
+.call-our-hotline {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 19.400001525878906px;
+  line-height: 24.25px;
+  font-weight: 700;
+  position: absolute;
+  left: 100px;
+  top: 774px;
+}
+.chat-with-us {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 19.400001525878906px;
+  line-height: 24.25px;
+  font-weight: 700;
+  position: absolute;
+  left: 328px;
+  top: 772px;
+}
+.send-an-email {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 19.400001525878906px;
+  line-height: 24.25px;
+  font-weight: 700;
+  position: absolute;
+  left: 557px;
+  top: 772px;
+}
+.submit-an-anonymous-report {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 19.400001525878906px;
+  line-height: 24.25px;
+  font-weight: 700;
+  position: absolute;
+  left: 785px;
+  top: 774px;
+  width: 172px;
+}
+.invite-your-team {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 19.400001525878906px;
+  line-height: 24.25px;
+  font-weight: 700;
+  position: absolute;
+  left: 1013px;
+  top: 772px;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #f5f3f0;
+  border-style: solid;
+  border-color: #c9c9c9;
+  border-width: 0px 0px 1px 0px;
+  width: 1380px;
+  height: 64px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background-image: url("sitii.webp");
+}
+.whistlesafe {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 22.5px;
+  font-weight: 700;
+  position: absolute;
+  left: 21px;
+  top: 21px;
+}
+.home {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 886px;
+  top: 21px;
+}
+.incidents {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 958px;
+  top: 21px;
+}
+.rectangle-2 {
+  background: #e51a1a;
+  border-radius: 10px;
+  width: 129px;
+  height: 39px;
+  position: absolute;
+  left: 1129px;
+  top: -4px;
+  margin-left: 50px;
+  color: white;
+}
+.login {
+  color: #ffffff;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 20.618183135986328px;
+  line-height: 25.77px;
+  font-weight: 700;
+  position: absolute;
+  left: 1165px;
+  top: 2px;
+  width: 63px;
+  height: 24.05px;
+  margin-left: 50px;
+}
+.insights {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 1050px;
+  top: 21px;
+  padding-right: 15px;
+}
+.img{
+  background-image: url("sitii.webp");
+  color: #000000;
+  height: 40px;
+  width: 40px;
+}
+footer{
+  background-color: #f5f3f0;
+  text-align: center;
+}

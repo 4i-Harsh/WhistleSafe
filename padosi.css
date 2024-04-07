@@ -1,0 +1,288 @@
+.incidents-near-you,
+.incidents-near-you * {
+  box-sizing: border-box;
+}
+.incidents-near-you {
+  background: #f5f3f0;
+  height: 834px;
+  position: relative;
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: #f5f3f0;
+  border-style: solid;
+  border-color: #c9c9c9;
+  border-width: 0px 0px 0.92px 0px;
+  width: 1179.6px;
+  height: 58.98px;
+  position: absolute;
+  left: calc(50% - 590px);
+  top: 0px;
+}
+.whistlesafe {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Bold", sans-serif;
+  font-size: 16.588090896606445px;
+  line-height: 20.74px;
+  font-weight: 700;
+  position: absolute;
+  left: 18.22px;
+  top: 18.35px;
+}
+.home {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 12.901848793029785px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  right: 38.5px;
+  top: 19.35px;
+}
+.incidents {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 12.901848793029785px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  right: 112.15px;
+  top: 19.35px;
+}
+.insights {
+  color: #1c0d0d;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 12.901848793029785px;
+  line-height: 19.35px;
+  font-weight: 500;
+  position: absolute;
+  right: 214.36px;
+  top: 19.35px;
+}
+.incidents-near-you2 {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-Medium", sans-serif;
+  font-size: 52.05449676513672px;
+  line-height: 31.48px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - 299px);
+  top: 85px;
+  width: 597px;
+  height: 47.17px;
+}
+.rectangle-23 {
+  background: #d9d9d9;
+  width: 994px;
+  height: 402px;
+  position: absolute;
+  left: calc(50% - 497px);
+  top: calc(50% - 258px);
+}
+.recent-incidents {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 35px;
+  line-height: 31.48px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 488px);
+  top: calc(50% - -172px);
+  width: 329px;
+  height: 43px;
+}
+.solved-incidents {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 35px;
+  line-height: 31.48px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - -178px);
+  top: calc(50% - -166px);
+  width: 329px;
+  height: 43px;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 49.39999771118164px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 492px);
+  top: calc(50% - -195px);
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 49.39999771118164px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - -178px);
+  top: calc(50% - -227px);
+}
+.div3 {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 49.39999771118164px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 492px);
+  top: calc(50% - -322px);
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 49.39999771118164px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 492px);
+  top: calc(50% - -254px);
+}
+.directions-car {
+  width: 45px;
+  height: 40px;
+  position: absolute;
+  left: calc(50% - 462px);
+  top: calc(50% - -219.5px);
+  overflow: visible;
+}
+.paid {
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: calc(50% - 462px);
+  top: calc(50% - -277px);
+  overflow: visible;
+}
+.cell-tower {
+  width: 48px;
+  height: 45.84px;
+  position: absolute;
+  left: calc(50% - 462px);
+  top: calc(50% - -337px);
+  overflow: visible;
+}
+.car-accident {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 20px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 394px);
+  top: calc(50% - -189px);
+  width: 224px;
+  height: 28px;
+}
+._45-mins-ago {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 12px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 394px);
+  top: calc(50% - -210px);
+  width: 224px;
+  height: 28px;
+}
+._5-hours-ago {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 12px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 394px);
+  top: calc(50% - -328px);
+  width: 224px;
+  height: 28px;
+}
+._2-hours-ago {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 12px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 394px);
+  top: calc(50% - -272px);
+  width: 224px;
+  height: 28px;
+}
+.network-breach {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 20px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 394px);
+  top: calc(50% - -309px);
+  width: 224px;
+  height: 28px;
+}
+.robbery {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 20px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - 394px);
+  top: calc(50% - -249px);
+  width: 224px;
+  height: 28px;
+}
+.robber-got-caught-few-hours-ago {
+  color: #000000;
+  text-align: left;
+  font-family: "PublicSans-BoldItalic", sans-serif;
+  font-size: 17px;
+  line-height: 85.5px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: calc(50% - -202px);
+  top: calc(50% - -227px);
+  width: 281px;
+  height: 54px;
+}
